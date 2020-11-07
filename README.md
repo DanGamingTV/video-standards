@@ -1,5 +1,6 @@
 # video-standards
 Wide collection of video standards, aspect ratios, resolutions and framerates to help you with your video production.
+## WARNING: Current video standards are extremely stupid, confusing and are not very interoperable with eachother — good luck.
 ## Standards
 - [DCI](standards/DCI.md)
 - [SMPTE](standards/SMPTE.md)
