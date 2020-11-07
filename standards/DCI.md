@@ -4,6 +4,11 @@
 Make sure not to confuse UHD and its regular counterparts.
 For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), which is VERY different from the DCI version of 4K with a resolution of 4096x2160!
 
+#### Excerpt from Delock
+
+> Ultra-HD or 4K or even 4K Ultra-HD? The current user gets confused mainly because manufacturers juggle with the names and partly, they use the same label for articles with different resolutions. Colloquial, resolutions with about 4000 pixels in the horizontal are called „4K“. More exactly it has to be distinguished between UHD and DCI resolution: UHD has 3840 x 2160 pixels like mentioned above. DCI (Digital Cinema Initiatives) is the 4K format used by digital cinemas and has a resolution of regularly 4096 x 2160 pixels. In technical view, 4K and UHD are different!<sup>[\[1\]](#1-ultra-hd--4k-resolution-by-delock)</sup>
+
+
 ~~DCI versions of general frame sizes like "DCI 4K" are referred to as just "4K" in this document (or whatever standard name it is)~~
 ### Main aspect ratios
 **Flat**: 1.85:1
@@ -359,3 +364,10 @@ For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), wh
 
 **2.44:1**
 1920x787
+
+# References
+
+[gotoicon]: https://en.wikipedia.org/w/skins/Vector/resources/skins.vector.styles/images/external-link-ltr-icon.svg
+[1]: https://www.delock.com/infothek/Ultra-HD_4K/ultra-hd_4k_e.html "Ultra HD / 4K Resolution"
+
+##### \[1] [Ultra HD / 4K Resolution![Go to link][gotoicon]][1] by Delock
