@@ -1,6 +1,5 @@
 # video-standards
-add a description here idk
-
+Wide collection of video standards, aspect ratios, resolutions and framerates to help you with your video production.
 ## Standards
 - [DCI](standards/DCI.md)
 - [SMPTE](standards/SMPTE.md)
