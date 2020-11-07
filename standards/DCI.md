@@ -1,5 +1,4 @@
 # DCI (GLOBAL)
-## Cinema
 ### Important info
 Make sure not to confuse UHD and its regular counterparts.
 For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), which is VERY different from the DCI version of 4K with a resolution of 4096x2160!
