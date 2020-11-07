@@ -11,29 +11,21 @@ For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), wh
 
 ~~DCI versions of general frame sizes like "DCI 4K" are referred to as just "4K" in this document (or whatever standard name it is)~~
 ### Main aspect ratios
-**Flat**: 1.85:1
+- **Flat**: 1.85:1
+- **Scope**: 2.39:1 (often called 2.40:1)
+- **Full container**: 256:135 (also known as 1.9:1)
 
-**Scope**: 2.39:1 (often called 2.40:1)
-
-**Full container**: 256:135 (also known as 1.9:1)
 ### Other aspect ratios
-**2:1**
+- **2:1**
+- **1.33:1 (4:3 equivalent)**
+- **1.66:1 (5:3 equivalent)**
+- **1.77:1 (16:9 equivalent)**
+- **1.94:1 (RED Dragon Full Frame)**
+- **2.35:1 (Scope predecessor)**
+- **2.37:1 (RED Wide)**
+- **2.40:1**
+- **2.44:1**
 
-**1.33:1 (4:3 equivalent)**
-
-**1.66:1 (5:3 equivalent)**
-
-**1.77:1 (16:9 equivalent)**
-
-**1.94:1 (RED Dragon Full Frame)**
-
-**2.35:1 (Scope predecessor)**
-
-**2.37:1 (RED Wide)**
-
-**2.40:1**
-
-**2.44:1**
 ## 4KDCP
 **Flat (1.85:1)**
 3996x2160
@@ -180,6 +172,11 @@ For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), wh
 
 
 ## DCI 4K
+### Also known as
+- **4K DCI**
+- **Cinema 4K**
+- **C4K**
+
 **Flat (1.85:1)**
 4096x2214
 
