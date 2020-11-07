@@ -1,17 +1,17 @@
 # DCI (GLOBAL)
 ## Cinema
-#### Important info
+### Important info
 Make sure not to confuse UHD and its regular counterparts.
 For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), which is VERY different from the DCI version of 4K with a resolution of 4096x2160!
 
 ~~DCI versions of general frame sizes like "DCI 4K" are referred to as just "4K" in this document (or whatever standard name it is)~~
-#### Main aspect ratios
+### Main aspect ratios
 **Flat**: 1.85:1
 
 **Scope**: 2.39:1 (often called 2.40:1)
 
 **Full container**: 256:135 (also known as 1.9:1)
-#### Other aspect ratios
+### Other aspect ratios
 **2:1**
 
 **1.33:1 (4:3 equivalent)**
@@ -29,7 +29,7 @@ For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), wh
 **2.40:1**
 
 **2.44:1**
-### 4KDCP
+## 4KDCP
 **Flat (1.85:1)**
 3996x2160
 
@@ -39,7 +39,7 @@ For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), wh
 **Full container (256:135)**
 4096x2160
 
-### 2KDCP
+## 2KDCP
 **Flat (1.85:1)**
 1998x1080
 
@@ -49,7 +49,7 @@ For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), wh
 **Full container (256:135)**
 2048x1080
 
-### DCI 8K
+## DCI 8K
 **Flat (1.85:1)**
 8192x4428
 
@@ -80,7 +80,7 @@ For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), wh
 **2.44:1**
 8192x3357
 
-### UHD 8K
+## UHD 8K
 **Flat (1.85:1)**
 7680x4151
 
@@ -108,7 +108,7 @@ For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), wh
 **2.44:1**
 7680x3148
 
-### DCI 6K
+## DCI 6K
 **Flat (1.85:1)**
 6144x3321
 
@@ -142,7 +142,7 @@ For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), wh
 **2.44:1**
 6144x2518
 
-### DCI 5K
+## DCI 5K
 **Flat (1.85:1)**
 5120x2768
 
@@ -174,7 +174,7 @@ For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), wh
 5120x2098
 
 
-### DCI 4K
+## DCI 4K
 **Flat (1.85:1)**
 4096x2214
 
@@ -205,7 +205,7 @@ For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), wh
 **2.44:1**
 4096x1679
 
-### UHD 4K
+## UHD 4K
 **Flat (1.85:1)**
 3840x2076
 
@@ -236,7 +236,7 @@ For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), wh
 **2.44:1**
 3840x1574
 
-### DCI 3K
+## DCI 3K
 **Flat (1.85:1)**
 3072x1661
 
@@ -267,7 +267,7 @@ For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), wh
 **2.44:1**
 3072x1259
 
-### 3K HD
+## 3K HD
 **Flat (1.85:1)**
 2880x1557
 
@@ -298,7 +298,7 @@ For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), wh
 **2.44:1**
 2880x1180
 
-### DCI 2K
+## DCI 2K
 **Flat (1.85:1)**
 2048x1107
 
@@ -329,7 +329,7 @@ For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), wh
 **2.44:1**
 2048x839
 
-### 1080p
+## 1080p
 **Flat (1.85:1)**
 1920x1038
 
