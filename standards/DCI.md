@@ -2,9 +2,9 @@
 ## Cinema
 #### Important info
 Make sure not to confuse UHD and its regular counterparts.
-For example: Most consumer 4K TVs are 4K UHD (3840x2160), which is VERY different from the DCI version of 4K with a resolution of 4096x2160!
+For example: Most consumer TVs that say "4K" are actually UHD 4K (3840x2160), which is VERY different from the DCI version of 4K with a resolution of 4096x2160!
 
-DCI versions of general frame sizes like "DCI 4K" are referred to as just "4K" in this document (or whatever standard name it is)
+~~DCI versions of general frame sizes like "DCI 4K" are referred to as just "4K" in this document (or whatever standard name it is)~~
 #### Main aspect ratios
 **Flat**: 1.85:1
 
@@ -49,7 +49,7 @@ DCI versions of general frame sizes like "DCI 4K" are referred to as just "4K" i
 **Full container (256:135)**
 2048x1080
 
-### 8K
+### DCI 8K
 **Flat (1.85:1)**
 8192x4428
 
@@ -80,7 +80,7 @@ DCI versions of general frame sizes like "DCI 4K" are referred to as just "4K" i
 **2.44:1**
 8192x3357
 
-### 8K UHD
+### UHD 8K
 **Flat (1.85:1)**
 7680x4151
 
@@ -108,7 +108,7 @@ DCI versions of general frame sizes like "DCI 4K" are referred to as just "4K" i
 **2.44:1**
 7680x3148
 
-### 6K
+### DCI 6K
 **Flat (1.85:1)**
 6144x3321
 
@@ -142,7 +142,7 @@ DCI versions of general frame sizes like "DCI 4K" are referred to as just "4K" i
 **2.44:1**
 6144x2518
 
-### 5K
+### DCI 5K
 **Flat (1.85:1)**
 5120x2768
 
@@ -172,3 +172,127 @@ DCI versions of general frame sizes like "DCI 4K" are referred to as just "4K" i
 
 **2.44:1**
 5120x2098
+
+
+### DCI 4K
+**Flat (1.85:1)**
+4096x2214
+
+**Scope (2.39:1)**
+4096x1714
+
+**Full container (256:135)**
+4096x2160
+
+**1.33:1 (4:3 equivalent)**
+4096x3072
+
+**1.66:1 (5:3 equivalent)**
+4096x2458
+
+**1.77:1 (16:9 equivalent)**
+4096x2304
+
+**2:1**
+4096x2048
+
+**2.37:1 (RED Wide)**
+4096x1728
+
+**2.40:1**
+4096x1707
+
+**2.44:1**
+4096x1679
+
+### UHD 4K
+**Flat (1.85:1)**
+3840x2076
+
+**Scope (2.39:1)**
+3840x1607
+
+**Full container (256:135)**
+3840x2025
+
+**1.33:1 (4:3 equivalent)**
+3840x2880
+
+**1.66:1 (5:3 equivalent)**
+3840x2304
+
+**1.77:1 (16:9 equivalent)**
+3840x2160
+
+**2:1**
+3840x1920
+
+**2.37:1 (RED Wide)**
+3840x1620
+
+**2.40:1**
+3840x1600
+
+**2.44:1**
+3840x1574
+
+### DCI 3K
+**Flat (1.85:1)**
+3072x1661
+
+**Scope (2.39:1)**
+3072x1285
+
+**Full container (256:135)**
+3072x1620
+
+**1.33:1 (4:3 equivalent)**
+3072x2304
+
+**1.66:1 (5:3 equivalent)**
+3072x1843
+
+**1.77:1 (16:9 equivalent)**
+3072x1728
+
+**2:1**
+3072x1536
+
+**2.37:1 (RED Wide)**
+3072x1296
+
+**2.40:1**
+3072x1280
+
+**2.44:1**
+3072x1259
+
+### 3K HD
+**Flat (1.85:1)**
+
+
+**Scope (2.39:1)**
+
+
+**Full container (256:135)**
+
+
+**1.33:1 (4:3 equivalent)**
+
+
+**1.66:1 (5:3 equivalent)**
+
+
+**1.77:1 (16:9 equivalent)**
+
+
+**2:1**
+
+
+**2.37:1 (RED Wide)**
+
+
+**2.40:1**
+
+
+**2.44:1**
